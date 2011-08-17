@@ -39,7 +39,7 @@ result2: |
   Stream mapping:
     Stream #0.0 -> #0.0
     Stream #0.1 -> #0.1
-  Press [q] to stop encoding
+  Press [q] to stop, [?] for help
   frame=  584 q=6.0 Lsize=     708kB time=19.5 bitrate= 297.8kbits/s    
   video:49kB audio:153kB global headers:0kB muxing overhead 250.444444%
   
